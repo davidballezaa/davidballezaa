@@ -1,8 +1,9 @@
-# Hi there 👋, I'm...
+## Hi there 👋, I'm...
 :eyes: David\
 :school_satchel: a Computer Science student @ Tec de Monterrey\
 :octocat: Developing Web Applications\
-:book: Learning Typescript and Machine Learning\
+:book: Learning Typescript and Machine Learning
+<br><br>
 📫 Feel free to contact me:
 <div id="badges">
   <a href="your-linkedin-URL">
