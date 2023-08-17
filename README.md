@@ -2,7 +2,7 @@
 :eyes: David\
 :school_satchel: a Computer Science student @ Tec de Monterrey\
 :octocat: Researching parallelization with C++\
-:desktop_computer: Building web applications with JavaScript frameworks
+:desktop_computer: Building web applications with JavaScript frameworks\
 :book: Learning Machine Learning & Data Science with Python
 <br><br>
 📫 Feel free to contact me:
