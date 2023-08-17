@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm...
 :eyes: David\
 :school_satchel: a Computer Science student @ Tec de Monterrey\
-:octocat: Developing Web Applications\
-:book: Learning Typescript and Machine Learning
+:octocat: Researching parallelization with C++ and building Web Applications\
+:book: Learning Machine Learning
 <br><br>
 📫 Feel free to contact me:
 <div id="badges">
