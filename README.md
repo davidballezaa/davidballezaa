@@ -1,9 +1,7 @@
 ## Hi there 👋, I'm...
 :eyes: David\
 :school_satchel: Computer Science student @ Tec de Monterrey\
-:fox_face: Full Stack Software Engineer @ [Scholarvy](https://www.scholarvy.io/)\
-:octocat: Working on parallelization for Multi-Objective Evolutionary Algorithms\
-:book: Learning Machine Learning & Data Science
+🏍️: Software Engineer Intern @ [Orchata](https://www.ycombinator.com/companies/orchata)\
 <br><br>
 📫 Feel free to contact me:
 <div id="badges">
