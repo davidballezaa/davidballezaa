@@ -1,9 +1,15 @@
 ## Hi there 👋, I'm...
 :eyes: David\
-:school_satchel: Computer Science student @ Tec de Monterrey\
-🏍️: Software Engineer Intern @ [Orchata](https://www.ycombinator.com/companies/orchata)\
+:school_satchel: 6th semester Computer Science student @ Tec de Monterrey\
+🏢 Software Engineer Intern @ Amazon\
+:octocat: CTO @ [RivirAI](https://rivir-ai.com/)\
+🤖 Contributer to [TecGPT](https://news.microsoft.com/source/latam/features/ai/tecnologico-de-monterrey-ai-ecosystem/?lang=en)\
+💻 President @ ITESM ACM: 
+- [HackMTY](https://hackmty.com/): Largest student-led hackathon in LATAM
+- [ICPC Mexico Finals](https://2024icpcmexicofinals.org/)
+
 <br><br>
-📫 Feel free to contact me:
+📫 Send me a message!:
 <div id="badges">
   <a href="https://www.linkedin.com/in/davidballezaa/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
