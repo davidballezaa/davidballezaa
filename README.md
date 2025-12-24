@@ -1,12 +1,7 @@
 ## Hi there 👋, I'm...
 :eyes: David\
-:school_satchel: 6th semester Computer Science student @ Tec de Monterrey\
-🏢 Software Engineer Intern @ Amazon\
-:octocat: CTO @ [RivirAI](https://rivir-ai.com/)\
-🤖 Contributer to [TecGPT](https://news.microsoft.com/source/latam/features/ai/tecnologico-de-monterrey-ai-ecosystem/?lang=en)\
-💻 President @ ITESM ACM: 
-- [HackMTY](https://hackmty.com/): Largest student-led hackathon in LATAM
-- [ICPC Mexico Finals](https://2024icpcmexicofinals.org/)
+:school_satchel: 8th semester Computer Science student @ Tec de Monterrey\
+🏢 Software Engineer @ Amazon\
 
 <br><br>
 📫 Send me a message!:
